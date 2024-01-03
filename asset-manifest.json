@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EcommMiniStore/static/css/main.c772d012.css",
+    "main.js": "/EcommMiniStore/static/js/main.3c62f153.js",
+    "static/js/787.d39243d4.chunk.js": "/EcommMiniStore/static/js/787.d39243d4.chunk.js",
+    "index.html": "/EcommMiniStore/index.html",
+    "main.c772d012.css.map": "/EcommMiniStore/static/css/main.c772d012.css.map",
+    "main.3c62f153.js.map": "/EcommMiniStore/static/js/main.3c62f153.js.map",
+    "787.d39243d4.chunk.js.map": "/EcommMiniStore/static/js/787.d39243d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c772d012.css",
+    "static/js/main.3c62f153.js"
+  ]
+}
