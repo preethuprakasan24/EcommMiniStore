@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <>
       <div className="header">
-        <Link to="/">
+        <Link to="/EcommMiniStore">
           <img
             src={process.env.PUBLIC_URL + "/main-logo.png"}
             alt="Logo"
